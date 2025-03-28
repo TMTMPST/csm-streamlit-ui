@@ -13,29 +13,6 @@ Welcome to the **CSM AI - Streamlit UI**, a user-friendly interface for the **CS
 ✔️ **Download Audio:** Get the output in WAV format  
 ✔️ **Modern UI:** Interactive and easy-to-use **Streamlit interface** with custom styling  
 
-## 📂 Project Structure
-```
-csm-streamlit-ui/
-│── streamlit_app/
-│   │── app.py  # Main Streamlit UI script
-│   ├── assets/
-│   │   ├── styles.css  # Custom styling (optional)
-│   ├── data/  # Stores uploaded and generated audio files
-│
-│── models/
-│   │── models.py  # Model definitions
-│
-│── generator/
-│   │── generator.py  # Text-to-speech logic
-│   │── test_clone.py  # Runs the AI model
-│
-│── requirements.txt  # Dependencies
-│── setup.py  # Project setup file
-│── run_csm.py  # Script to start the model
-│── README.md  # Documentation
-│── venv/  # Virtual environment (optional)
-```
-
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
