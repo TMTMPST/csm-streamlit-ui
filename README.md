@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Streamlit App
 ```sh
 streamlit run streamlit_app/app.py -->
-```
+<!-- ``` -->
 
 ## 🎧 How to Use
 1. **Upload an audio file** (MP3, WAV, or FLAC) to the system for training.  
