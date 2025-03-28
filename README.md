@@ -16,7 +16,7 @@ Welcome to the **CSM AI - Streamlit UI**, a user-friendly interface for the **CS
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/csm-streamlit-ui.git
+git clone https://github.com/TMTMPST/csm-streamlit-ui.git
 cd csm-streamlit-ui
 ```
 
