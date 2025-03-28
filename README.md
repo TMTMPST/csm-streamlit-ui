@@ -14,7 +14,8 @@ Welcome to the **CSM AI - Streamlit UI**, a user-friendly interface for the **CS
 ✔️ **Modern UI:** Interactive and easy-to-use **Streamlit interface** with custom styling  
 
 ## 🛠️ Installation
-### 1️⃣ Clone the Repository
+### Not Done Yet
+<!-- ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/TMTMPST/csm-streamlit-ui.git
 cd csm-streamlit-ui
@@ -34,7 +35,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Streamlit App
 ```sh
-streamlit run streamlit_app/app.py
+streamlit run streamlit_app/app.py -->
 ```
 
 ## 🎧 How to Use
